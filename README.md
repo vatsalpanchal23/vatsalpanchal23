@@ -114,8 +114,8 @@ git clone https://github.com/your-username/securevault.git
 </p>
 
 * 📧 [vatsalroy02@gmail.com](mailto:vatsalroy02@gmail.com)
-* 💼 your-linkedin
-* 🌐 Portfolio (coming soon)
+* 💼 https://www.linkedin.com/in/vatsalpanchal-ngl/
+* 🌐 https://vatsalpanchal.lovable.app/
 
 ---
 
