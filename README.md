@@ -89,6 +89,7 @@ git clone https://github.com/your-username/securevault.git
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
 </p>
 
+*  cybersecurity intern at isecurify
 * 🧪 Practicing CTF challenges
 * 🛡️ Learning advanced web security
 * 🔐 Improving SecureVault
